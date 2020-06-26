@@ -1,0 +1,2 @@
+You can download the trained model from google drive, the link is:
+https://drive.google.com/file/d/1XkX8BAqCLPvM_q4LYSFTR-XmCzjCwRjv/view?usp=sharing
